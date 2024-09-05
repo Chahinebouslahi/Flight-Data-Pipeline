@@ -6,4 +6,4 @@ docker-compose up airflow-init
 docker-compose up
 
 
-Then you can see the dag's performancet on (localhost:8081)
+Then you can see the dag's performance on (localhost:8081)
