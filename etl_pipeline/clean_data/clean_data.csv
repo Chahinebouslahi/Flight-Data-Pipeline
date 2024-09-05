@@ -1,0 +1,1805 @@
+Compagnie,Heure_du_départ,Heure_arrivée,Prix,Durée,aéroport,jour_du_vol,Compagnie_code,weekend_verif
+TRANSAVIA,8:20 PM,9:50 PM,75.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-17,14,False
+TRANSAVIA,4:15 PM,5:45 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-23,14,False
+TRANSAVIA,6:25 AM,7:55 AM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-26,14,False
+TRANSAVIA,6:25 AM,7:55 AM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-10,14,False
+TRANSAVIA,4:15 PM,5:45 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-22,14,True
+TRANSAVIA,4:15 PM,5:45 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-11,14,False
+TRANSAVIA,6:45 AM,8:15 AM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-22,14,True
+TRANSAVIA,8:20 PM,9:50 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-10,14,False
+TRANSAVIA,2:35 PM,4:05 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-22,14,True
+TRANSAVIA,6:45 AM,8:15 AM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-23,14,False
+TRANSAVIA,4:15 PM,5:45 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-10,14,False
+TRANSAVIA,8:20 PM,9:50 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-14,14,True
+TRANSAVIA,8:20 PM,9:50 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-11,14,False
+TRANSAVIA,12:55 PM,2:25 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-11,14,False
+TRANSAVIA,8:20 PM,9:50 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-21,14,True
+TRANSAVIA,4:15 PM,5:45 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-19,14,False
+TRANSAVIA,6:25 AM,7:55 AM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-19,14,False
+TRANSAVIA,8:20 PM,9:50 PM,81.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-19,14,False
+TRANSAVIA,10:40 AM,12:10 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-11,14,False
+TRANSAVIA,10:15 AM,11:45 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-10,14,False
+TRANSAVIA,10:40 AM,12:10 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-25,14,False
+TRANSAVIA,2:00 PM,3:30 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-23,14,False
+TRANSAVIA,6:45 AM,8:15 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-20,14,False
+TRANSAVIA,9:10 AM,10:40 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-26,14,False
+TRANSAVIA,4:15 PM,5:45 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-26,14,False
+TUNISAIR,11:10 AM,12:35 PM,88.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-22,15,True
+TRANSAVIA,4:15 PM,5:45 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-14,14,True
+TRANSAVIA,6:45 AM,8:15 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-15,14,True
+TRANSAVIA,8:20 PM,9:50 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-15,14,True
+TRANSAVIA,4:15 PM,5:45 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-17,14,False
+TRANSAVIA,4:15 PM,5:45 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-21,14,True
+TRANSAVIA,6:45 AM,8:15 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-21,14,True
+TRANSAVIA,9:10 AM,10:40 AM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-19,14,False
+TRANSAVIA,12:55 PM,2:25 PM,88.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-25,14,False
+TUNISAIR,10:00 PM,11:25 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-28,15,True
+TUNISAIR,10:10 PM,11:35 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-22,15,True
+TUNISAIR,8:30 PM,9:55 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-22,15,True
+TUNISAIR,7:55 PM,9:20 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-25,15,False
+TUNISAIR,10:30 PM,11:55 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-25,15,False
+TUNISAIR,3:00 PM,4:25 PM,89.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-25,15,False
+TRANSAVIA,12:55 PM,2:25 PM,94.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-04,14,False
+NOUVELAIR TUNISIE,9:50 PM,11:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,9,False
+TRANSAVIA,8:20 PM,9:50 PM,94.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-08,14,True
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,9,False
+TRANSAVIA,6:25 AM,7:55 AM,94.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-05,14,False
+NOUVELAIR TUNISIE,6:25 PM,7:55 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,9,True
+TRANSAVIA,6:45 AM,8:15 AM,94.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-08,14,True
+NOUVELAIR TUNISIE,9:50 PM,11:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,9,False
+NOUVELAIR TUNISIE,10:05 PM,11:35 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,9,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,9,False
+TRANSAVIA,10:40 AM,12:10 PM,94.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-04,14,False
+NOUVELAIR TUNISIE,6:50 PM,8:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,9,False
+NOUVELAIR TUNISIE,9:50 PM,11:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-17,9,False
+NOUVELAIR TUNISIE,6:50 PM,8:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,9,False
+NOUVELAIR TUNISIE,6:50 PM,8:20 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,9,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,94.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-10,9,False
+TRANSAVIA,8:20 PM,9:50 PM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-04,14,False
+TRANSAVIA,4:15 PM,5:45 PM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-08,14,True
+TRANSAVIA,4:15 PM,5:45 PM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-04,14,False
+TRANSAVIA,9:10 AM,10:40 AM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-05,14,False
+TRANSAVIA,4:15 PM,5:45 PM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-05,14,False
+TRANSAVIA,8:20 PM,9:50 PM,100.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-05,14,False
+TRANSAVIA,10:20 AM,11:50 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-21,14,True
+TRANSAVIA,10:15 AM,11:45 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-17,14,False
+TRANSAVIA,6:25 AM,7:55 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-17,14,False
+TRANSAVIA,12:55 PM,2:25 PM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-15,14,True
+TRANSAVIA,4:15 PM,5:45 PM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-15,14,True
+TRANSAVIA,10:20 AM,11:50 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-14,14,True
+TRANSAVIA,6:45 AM,8:15 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-14,14,True
+TRANSAVIA,8:10 PM,9:40 PM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-20,14,False
+TRANSAVIA,9:05 AM,10:35 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-27,14,False
+TRANSAVIA,9:05 AM,10:35 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-20,14,False
+TRANSAVIA,6:45 AM,8:15 AM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-27,14,False
+TRANSAVIA,4:15 PM,5:45 PM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-20,14,False
+TRANSAVIA,4:15 PM,5:45 PM,101.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-27,14,False
+TUNISAIR,10:45 AM,12:10 PM,102.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-14,15,True
+TUNISAIR,12:40 PM,2:05 PM,102.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-14,15,True
+TUNISAIR,11:15 AM,12:40 PM,102.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-20,15,False
+TUNISAIR,8:40 PM,10:05 PM,102.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-14,15,True
+TUNISAIR,1:15 PM,2:40 PM,102.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-11,15,False
+NOUVELAIR TUNISIE,6:25 PM,7:55 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,9,True
+NOUVELAIR TUNISIE,10:20 PM,11:50 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,9,False
+NOUVELAIR TUNISIE,4:35 PM,6:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,9,False
+TUNISAIR,10:45 AM,12:10 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-19,15,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-17,9,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,9,False
+TUNISAIR,10:00 PM,11:25 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-17,15,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,9,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,9,False
+NOUVELAIR TUNISIE,7:05 PM,8:35 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-10,9,False
+TUNISAIR,8:30 PM,9:55 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-17,15,False
+TUNISAIR,10:00 PM,11:25 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-23,15,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,9,False
+TUNISAIR,3:00 PM,4:25 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-10,15,False
+TUNISAIR,10:45 AM,12:10 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-10,15,False
+TUNISAIR,7:50 AM,9:15 AM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-10,15,False
+TUNISAIR,7:50 AM,9:15 AM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-11,15,False
+TUNISAIR,10:45 AM,12:10 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-11,15,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,9,False
+TUNISAIR,8:30 PM,9:55 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-10,15,False
+TUNISAIR,10:00 PM,11:25 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-21,15,True
+NOUVELAIR TUNISIE,6:25 PM,7:55 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,9,True
+TUNISAIR,3:00 PM,4:25 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-26,15,False
+TUNISAIR,7:50 AM,9:15 AM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-26,15,False
+NOUVELAIR TUNISIE,10:35 AM,12:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,9,True
+TUNISAIR,11:05 AM,12:30 PM,103.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-26,15,False
+NOUVELAIR TUNISIE,9:50 PM,11:20 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-26,9,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,9,False
+NOUVELAIR TUNISIE,10:20 PM,11:50 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,9,False
+NOUVELAIR TUNISIE,6:20 PM,7:50 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,9,True
+NOUVELAIR TUNISIE,6:20 PM,7:50 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,9,True
+NOUVELAIR TUNISIE,10:35 AM,12:05 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,9,True
+NOUVELAIR TUNISIE,6:20 PM,7:50 PM,103.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,9,True
+TUNISAIR,7:50 AM,9:15 AM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-08,15,True
+TUNISAIR,3:00 PM,4:25 PM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-08,15,True
+TUNISAIR,8:30 PM,9:55 PM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-05,15,False
+TUNISAIR,3:00 PM,4:25 PM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-05,15,False
+TUNISAIR,7:50 AM,9:15 AM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-05,15,False
+TUNISAIR,3:00 PM,4:25 PM,104.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TUNISAIR,8:00 PM,9:25 PM,105.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TUNISAIR,10:45 AM,12:10 PM,105.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TUNISAIR,7:50 AM,9:15 AM,105.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TUNISAIR,10:45 AM,12:10 PM,105.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-05,15,False
+TUNISAIR,3:00 PM,4:25 PM,105.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TRANSAVIA,12:55 PM,2:25 PM,108.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-08,14,True
+TRANSAVIA,4:15 PM,5:45 PM,112.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-28,14,True
+TRANSAVIA,6:45 AM,8:15 AM,112.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-28,14,True
+TRANSAVIA,10:20 AM,11:50 AM,112.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-28,14,True
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,112.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,9,True
+TRANSAVIA,4:15 PM,5:45 PM,112.0,2 hr 30 min,ORYParis-Orly Airport,2024-09-25,14,False
+NOUVELAIR TUNISIE,10:35 AM,12:05 PM,112.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,9,True
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,112.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,9,True
+TUNISAIR,3:00 PM,4:25 PM,112.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-20,15,False
+TUNISAIR,8:30 PM,9:55 PM,112.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-19,15,False
+TUNISAIR,8:30 PM,9:55 PM,112.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-08,15,True
+TUNISAIR,9:15 PM,10:40 PM,113.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-28,15,True
+TUNISAIR,3:00 PM,4:25 PM,113.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-27,15,False
+TUNISAIR,3:00 PM,4:25 PM,113.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-19,15,False
+TUNISAIR,8:45 PM,10:10 PM,113.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-11,15,False
+TUNISAIR,3:00 PM,4:25 PM,113.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-23,15,False
+TUNISAIR,8:30 PM,9:55 PM,114.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-27,15,False
+TUNISAIR,11:15 AM,12:40 PM,114.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-27,15,False
+TUNISAIR,10:45 AM,12:10 PM,114.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-25,15,False
+TUNISAIR,10:45 AM,12:10 PM,115.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-04,15,False
+TUNISAIR,3:00 PM,4:25 PM,118.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-28,15,True
+AIR FRANCE,7:25 AM,8:50 AM,126.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,3,False
+AIR FRANCE,7:25 AM,8:50 AM,126.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,3,True
+AIR FRANCE,9:20 PM,10:45 PM,126.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,3,True
+VUELING,10:30 AM,7:15 PM,132.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,17,False
+VUELING,6:45 AM,7:15 PM,135.0,13 hr 30 min,ORYParis-Orly Airport,2024-09-05,17,False
+TUNISAIR,10:00 PM,11:25 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-14,15,True
+TUNISAIR,10:45 AM,12:10 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-23,15,False
+TUNISAIR,7:55 PM,9:20 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-23,15,False
+TUNISAIR,10:45 AM,12:10 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-28,15,True
+AIR FRANCE,9:15 AM,10:40 AM,137.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,3,True
+TUNISAIR,3:00 PM,4:25 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-17,15,False
+TUNISAIR,10:45 AM,12:10 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-21,15,True
+TUNISAIR,8:00 PM,9:25 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-21,15,True
+TUNISAIR,10:00 PM,11:25 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-15,15,True
+TUNISAIR,8:30 PM,9:55 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-15,15,True
+TUNISAIR,3:00 PM,4:25 PM,137.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-21,15,True
+AIR FRANCE,9:15 AM,10:40 AM,137.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,3,False
+TUNISAIR,8:05 PM,9:30 PM,140.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-26,15,False
+TUNISAIR,10:00 PM,11:25 PM,140.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-27,15,False
+NOUVELAIR TUNISIE,11:35 AM,1:05 PM,146.0,2 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,9,True
+AIR FRANCE,7:25 AM,8:50 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,3,True
+AIR FRANCE,9:20 PM,10:45 PM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,3,False
+AIR FRANCE,9:15 AM,10:40 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,3,True
+AIR FRANCE,9:20 PM,10:45 PM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,3,True
+AIR FRANCE,9:20 PM,10:45 PM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,3,False
+AIR FRANCE,9:15 AM,10:40 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,3,False
+AIR FRANCE,9:20 PM,10:45 PM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,3,False
+AIR FRANCE,9:15 AM,10:40 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,3,False
+AIR FRANCE,7:25 AM,8:50 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,3,False
+AIR FRANCE,9:20 PM,10:45 PM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,3,False
+AIR FRANCE,9:15 AM,10:40 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,3,False
+AIR FRANCE,7:25 AM,8:50 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,3,False
+AIR FRANCE,7:25 AM,8:50 AM,149.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,3,False
+VUELING,1:05 PM,7:15 PM,152.0,7 hr 10 min,ORYParis-Orly Airport,2024-09-05,17,False
+AIR EUROPA,7:25 PM,12:50 AM+1,157.0,6 hr 25 min,ORYParis-Orly Airport,2024-09-28,2,True
+TUNISAIR,3:00 PM,4:25 PM,158.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-22,15,True
+TUNISAIR,8:30 PM,9:55 PM,158.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-20,15,False
+TUNISAIR,10:00 PM,11:25 PM,158.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-20,15,False
+TUNISAIR,3:00 PM,4:25 PM,158.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-15,15,True
+TUNISAIR,10:45 AM,12:10 PM,158.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-15,15,True
+AEGEAN,11:05 AM,11:55 PM,161.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,0,True
+AEGEAN,6:10 PM,11:55 PM,161.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-28,0,True
+AEGEAN,2:05 PM,11:55 PM,161.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,0,True
+AEGEAN,11:05 AM,11:55 PM,161.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,0,True
+AEGEAN,2:05 PM,11:55 PM,161.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,0,True
+AEGEAN,6:10 PM,11:55 PM,161.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-21,0,True
+VUELING,9:15 AM,7:15 PM,165.0,11 hr,ORYParis-Orly Airport,2024-09-05,17,False
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,6:10 AM,5:05 PM,166.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,6:10 AM,5:05 PM,166.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,6:10 AM,5:05 PM,166.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,6:10 AM,5:10 PM,166.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:15 PM,5:10 PM+1,166.0,23 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,6:15 PM,9:35 AM+1,166.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,6:15 PM,9:35 AM+1,166.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,6:15 PM,9:35 AM+1,166.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,6:15 PM,5:05 PM+1,166.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,6:15 PM,5:10 PM+1,166.0,23 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,6:10 AM,5:05 PM,166.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,6:10 AM,9:35 AM,166.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,6:10 AM,9:35 AM,170.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:10 AM,5:05 PM,170.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:10 AM,9:35 AM,170.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,6:10 AM,5:05 PM,170.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,11:40 AM,5:05 PM,170.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,11:40 AM,9:35 AM+1,170.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+AIR FRANCE,9:20 PM,10:45 PM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,3,False
+AIR FRANCE,9:15 AM,10:40 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,3,True
+AIR FRANCE,7:25 AM,8:50 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,3,True
+AIR FRANCE,7:25 AM,8:50 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,3,False
+AIR FRANCE,9:15 AM,10:40 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,3,False
+AIR FRANCE,9:20 PM,10:45 PM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,3,False
+VUELING,3:30 PM,7:15 PM,172.0,4 hr 45 min,ORYParis-Orly Airport,2024-09-05,17,False
+AIR FRANCE,7:25 AM,8:50 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,3,False
+AIR FRANCE,9:15 AM,10:40 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,3,False
+AIR FRANCE,9:20 PM,10:45 PM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,3,True
+AIR FRANCE,7:25 AM,8:50 AM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,3,True
+AIR FRANCE,9:20 PM,10:45 PM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,3,True
+AIR FRANCE,4:20 PM,5:45 PM,172.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,3,True
+AIR EUROPA,7:25 PM,12:50 AM+2,175.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-25,2,False
+AIR EUROPA,10:55 AM,12:50 AM+2,175.0,38 hr 55 min,ORYParis-Orly Airport,2024-09-25,2,False
+AIR EUROPA,5:10 PM,12:50 AM+2,175.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-25,2,False
+AIR EUROPA,7:25 PM,12:50 AM+2,175.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-28,2,True
+AIR EUROPA,5:10 PM,12:50 AM+2,175.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-28,2,True
+AIR EUROPA,5:10 PM,12:50 AM+1,175.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-28,2,True
+AEGEAN,11:05 AM,11:55 PM,180.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+AEGEAN,2:05 PM,11:55 PM,180.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+AEGEAN,6:10 PM,11:55 PM,180.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+AEGEAN,6:10 PM,11:55 PM,180.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-11,0,False
+AEGEAN,11:05 AM,11:55 PM,180.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,0,False
+AEGEAN,2:05 PM,11:55 PM,180.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,0,True
+AEGEAN,6:10 PM,11:55 PM,180.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,0,True
+AEGEAN,2:05 PM,11:55 PM,180.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,0,False
+TUNISAIR,10:45 AM,12:10 PM,181.0,2 hr 25 min,ORYParis-Orly Airport,2024-09-08,15,True
+AEGEAN,10:15 PM,11:55 PM+1,186.0,26 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,0,False
+AEGEAN,10:15 PM,11:55 PM+1,186.0,26 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,0,False
+AIR FRANCE,9:15 AM,10:40 AM,193.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,3,False
+AIR EUROPA,5:10 PM,12:50 AM+2,193.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-04,2,False
+AIR EUROPA,7:25 PM,12:50 AM+2,193.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-04,2,False
+AIR EUROPA,10:55 AM,12:50 AM+1,193.0,14 hr 55 min,ORYParis-Orly Airport,2024-09-26,2,False
+AIR EUROPA,7:25 PM,12:50 AM+1,193.0,6 hr 25 min,ORYParis-Orly Airport,2024-09-26,2,False
+AIR EUROPA,10:55 AM,12:50 AM+1,193.0,14 hr 55 min,ORYParis-Orly Airport,2024-09-28,2,True
+AIR FRANCE,9:15 AM,10:40 AM,193.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,3,True
+AIR EUROPA,7:25 PM,12:50 AM+2,193.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-27,2,False
+AIR FRANCE,9:20 PM,10:45 PM,193.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,3,False
+ITA,6:10 AM,5:05 PM,194.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,6:10 AM,5:10 PM,194.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+LUFTHANSA,6:45 AM,10:50 AM,195.0,5 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,6:45 AM,10:50 AM,195.0,5 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:45 AM,10:50 AM,195.0,5 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,9:00 AM,4:25 PM,195.0,8 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+ITA,1:55 PM,5:05 PM,198.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,6:10 AM,9:35 AM,198.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,6:10 AM,9:35 AM,198.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:10 AM,5:05 PM,198.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,1:55 PM,9:35 AM+1,198.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,1:55 PM,5:05 PM,198.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:10 AM,5:05 PM,198.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,1:55 PM,9:35 AM+1,198.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+AIR FRANCE,9:15 AM,10:40 AM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,3,True
+AIR FRANCE,4:20 PM,5:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,3,True
+AIR FRANCE,9:20 PM,10:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,3,True
+AIR FRANCE,9:20 PM,10:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,3,False
+AIR FRANCE,7:25 AM,8:50 AM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,3,True
+AIR FRANCE,4:20 PM,5:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,3,False
+AIR FRANCE,7:25 AM,8:50 AM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,3,True
+AIR FRANCE,9:15 AM,10:40 AM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,3,True
+AIR FRANCE,4:20 PM,5:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,3,True
+AIR FRANCE,9:20 PM,10:45 PM,200.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,3,True
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:05 AM,10:55 AM,202.0,5 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,9:45 AM,11:10 PM,202.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:05 AM,10:45 AM,202.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,9:45 AM,11:10 PM,202.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:45 AM,11:10 PM,202.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,2:30 PM,11:10 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:55 AM,11:10 PM,202.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:55 AM,11:10 PM,202.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,7:35 PM,11:10 PM,202.0,4 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:05 AM,10:45 AM,202.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,6:05 AM,3:50 PM,202.0,10 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,7:25 AM,3:50 PM,202.0,9 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:45 AM,3:50 PM,202.0,7 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:45 AM,11:10 PM,202.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,11:30 AM,3:50 PM,202.0,5 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,2:30 PM,11:10 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:35 PM,11:10 PM,202.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,7:35 PM,11:10 PM,202.0,4 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:35 PM,11:10 PM,202.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,7:25 AM,10:45 AM,202.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,7:45 PM,11:10 PM,202.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,9:55 AM,11:10 PM,202.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,2:30 PM,11:10 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:35 PM,11:10 PM,202.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,11:10 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,6:05 AM,4:05 PM,202.0,11 hr,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,7:25 AM,4:05 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,9:55 AM,4:05 PM,202.0,7 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,7:45 PM,11:10 PM,202.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,2:30 PM,11:10 PM,202.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,9:55 AM,11:10 PM,202.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,9:45 AM,11:10 PM,202.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,7:25 AM,10:45 AM,202.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,11:30 AM,4:05 PM,202.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,10:35 AM,4:05 PM,202.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,10:35 AM,11:10 PM,202.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,11:30 AM,11:10 PM,202.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+AIR FRANCE,9:15 AM,10:40 AM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,3,False
+AIR FRANCE,9:15 AM,10:40 AM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,3,False
+AIR FRANCE,7:25 AM,8:50 AM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,3,False
+AIR FRANCE,7:25 AM,8:50 AM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,3,False
+AIR FRANCE,9:20 PM,10:45 PM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,3,False
+AIR FRANCE,4:20 PM,5:45 PM,208.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,3,False
+ITA,6:10 AM,5:10 PM,211.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,6:10 AM,9:35 AM,211.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,9:35 AM+1,211.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,6:10 AM,5:10 PM,211.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,5:05 PM,211.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,6:10 AM,9:35 AM,211.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,1:55 PM,9:35 AM+1,211.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,6:15 PM,9:35 AM+1,211.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:10 AM,9:35 AM,211.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+AEGEAN,10:15 PM,11:55 PM+1,214.0,26 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,0,False
+ITA,6:15 PM,5:05 PM+1,215.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,11:40 AM,5:05 PM,215.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:15 PM,9:35 AM+1,215.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,1:55 PM,9:35 AM+1,215.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,1:55 PM,5:05 PM,215.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,11:40 AM,9:35 AM+1,215.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,11:40 AM,5:05 PM,215.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:10 AM,5:05 PM,215.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:10 AM,9:35 AM,215.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,11:40 AM,9:35 AM+1,215.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,7:30 AM,11:10 PM,217.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+AIR EUROPA,5:10 PM,12:50 AM+1,217.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-26,2,False
+AIR EUROPA,5:10 PM,12:50 AM+2,217.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-27,2,False
+AIR EUROPA,10:55 AM,12:50 AM+2,217.0,38 hr 55 min,ORYParis-Orly Airport,2024-09-27,2,False
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+AIR EUROPA,7:25 PM,12:50 AM+2,217.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-04,2,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,11:10 PM,217.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:05 AM,11:10 PM,217.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,7:25 AM,11:10 PM,217.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,7:30 AM,11:10 PM,217.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:00 AM,11:10 PM,217.0,18 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+AEGEAN,2:05 PM,11:55 PM,222.0,10 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+AEGEAN,11:05 AM,11:55 PM,222.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,0,True
+ITA,10:45 AM,5:05 PM+1,225.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,7:20 PM,9:35 AM+1,225.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,10:55 AM,9:35 AM+1,225.0,23 hr 40 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,7:20 PM,5:05 PM+1,225.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:20 PM,9:35 AM+1,225.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,10:45 AM,5:10 PM+1,225.0,31 hr 25 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,10:45 AM,5:05 PM,225.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,7:30 AM,5:10 PM,225.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,10:50 AM,5:05 PM+1,225.0,31 hr 15 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:30 AM,5:10 PM,225.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:50 AM,9:35 AM+1,225.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,10:45 AM,5:10 PM,225.0,7 hr 25 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:45 AM,9:35 AM+1,225.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:45 AM,5:05 PM+1,225.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:50 AM,5:05 PM,225.0,7 hr 15 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:30 AM,5:05 PM,225.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-25,6,False
+ITA,7:30 AM,5:10 PM,225.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,5:10 PM,225.0,7 hr 25 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,9:35 AM+1,225.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,7:30 AM,9:35 AM+1,225.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,7:05 PM,9:35 AM+1,226.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,9:30 PM,9:35 AM+1,226.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,9:30 PM,9:35 AM+1,226.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,7:05 PM,9:35 AM+1,226.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,9:30 PM,9:35 AM+1,226.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,9:20 AM,5:05 PM,226.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,9:20 AM,5:10 PM,226.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,9:30 PM,5:10 PM+1,226.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,9:20 AM,5:10 PM,226.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,9:20 AM,5:10 PM,226.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,4:50 PM,9:35 AM+1,226.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,9:30 PM,5:10 PM+1,226.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,4:50 PM,9:35 AM+1,226.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,9:20 AM,5:10 PM,226.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,9:30 PM,5:10 PM+1,226.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,9:30 PM,9:35 AM+1,226.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,9:30 PM,5:05 PM+1,226.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,9:30 PM,9:35 AM+1,226.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,7:05 PM,9:35 AM+1,226.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,9:20 AM,5:05 PM,226.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+LUFTHANSA,6:45 AM,4:25 PM,227.0,10 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+ITA,10:45 AM,9:35 AM+1,229.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM+1,229.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM,229.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-11,6,False
+AIR FRANCE,7:25 AM,8:50 AM,229.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,3,False
+ITA,7:30 AM,5:05 PM,229.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-11,6,False
+AIR FRANCE,9:20 PM,10:45 PM,229.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,3,False
+AIR FRANCE,4:20 PM,5:45 PM,229.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,3,False
+AIR FRANCE,9:15 AM,10:40 AM,229.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,3,False
+ITA,7:20 PM,5:05 PM+1,229.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:20 PM,9:35 AM+1,229.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,10:45 AM,5:05 PM+1,229.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,10:45 AM,9:35 AM+1,229.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,10:45 AM,5:05 PM,229.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:30 AM,9:35 AM+1,229.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:30 AM,5:05 PM,229.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:30 AM,9:35 AM+1,229.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,9:30 PM,9:35 AM+1,230.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,1:55 PM,5:10 PM,230.0,4 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:15 PM,9:35 AM+1,230.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,9:20 AM,5:05 PM,230.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,9:30 PM,9:35 AM+1,230.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,11:40 AM,5:05 PM,230.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,6:15 PM,5:05 PM+1,230.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,6:10 AM,5:10 PM,230.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,1:55 PM,9:35 AM+1,230.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,11:40 AM,9:35 AM+1,230.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,9:30 PM,5:05 PM+1,230.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,11:40 AM,9:35 AM+1,230.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,9:35 AM+1,230.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:15 PM,5:10 PM+1,230.0,23 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,6:15 PM,5:05 PM+1,230.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,9:30 PM,5:05 PM+1,230.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,6:10 AM,5:00 PM,230.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,11:40 AM,9:35 AM+1,230.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,6:15 PM,9:35 AM+1,230.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,6:15 PM,5:05 PM+1,230.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,9:20 AM,5:05 PM,230.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:10 AM,9:35 AM,230.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,1:55 PM,5:10 PM,230.0,4 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+AEGEAN,2:05 PM,11:55 PM+1,230.0,34 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,0,False
+LUFTHANSA,12:10 PM,11:10 PM,232.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:00 AM,11:10 PM,232.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,2:30 PM,11:10 PM,232.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:45 AM,3:50 PM,232.0,10 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:45 AM,11:10 PM,232.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:00 AM,3:50 PM,232.0,7 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,2:30 PM,11:10 PM,232.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:45 AM,11:10 PM,232.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,4:05 PM,232.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,11:10 PM,232.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ITA,1:55 PM,5:05 PM,234.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:15 PM,5:05 PM+1,234.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,6:15 PM,9:35 AM+1,234.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,1:55 PM,9:35 AM+1,234.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:15 PM,9:35 AM+1,234.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:15 PM,5:05 PM+1,234.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:10 AM,9:35 AM,234.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,6:10 AM,5:05 PM,234.0,11 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+LUFTHANSA,9:45 AM,11:10 PM,234.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,10:35 AM,11:10 PM,234.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:30 PM,11:10 PM,234.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,2:30 PM,11:10 PM,234.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,10:35 AM,4:05 PM,234.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ITA,11:40 AM,9:35 AM+1,234.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+LUFTHANSA,9:55 AM,11:10 PM,234.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+ITA,11:40 AM,5:05 PM,234.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,11:40 AM,5:05 PM,234.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,11:40 AM,9:35 AM+1,234.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+LUFTHANSA,6:05 AM,4:05 PM,234.0,11 hr,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,10:30 AM,11:10 PM,234.0,13 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,7:25 AM,4:05 PM,234.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,11:30 AM,11:10 PM,234.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,9:55 AM,4:05 PM,234.0,7 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,11:30 AM,4:05 PM,234.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,2:30 PM,11:10 PM,234.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,10:30 AM,11:10 PM,234.0,13 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,6:35 PM,11:10 PM,234.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,6:10 AM,9:35 AM+1,240.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,6:10 AM,9:35 AM+1,240.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,6:10 AM,9:35 AM+1,240.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,6:10 AM,9:35 AM+1,240.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,6:10 AM,9:35 AM+1,240.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+AIR EUROPA,5:10 PM,12:50 AM+2,241.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-20,2,False
+AIR EUROPA,7:25 PM,12:50 AM+1,241.0,6 hr 25 min,ORYParis-Orly Airport,2024-09-21,2,True
+AIR EUROPA,7:25 PM,12:50 AM+1,241.0,6 hr 25 min,ORYParis-Orly Airport,2024-09-19,2,False
+ITA,6:10 AM,9:35 AM+1,248.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+LUFTHANSA,7:30 AM,11:10 PM,249.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,7:30 AM,11:10 PM,249.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:05 AM,11:10 PM,249.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,6:05 AM,11:10 PM,249.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+ITA,7:30 AM,9:35 AM+1,253.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,10:50 AM,9:35 AM+1,253.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,10:45 AM,5:10 PM,253.0,7 hr 25 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,7:30 AM,5:00 PM,253.0,10 hr 30 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,7:30 AM,9:35 AM+1,253.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,10:50 AM,5:10 PM+1,253.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,10:55 AM,9:35 AM+1,253.0,23 hr 40 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,7:20 PM,5:10 PM+1,253.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,7:30 AM,5:10 PM,253.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,9:35 AM+1,253.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,7:30 AM,9:35 AM+1,253.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,9:35 AM+1,253.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:45 AM,5:05 PM+1,253.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,10:45 AM,5:05 PM+1,253.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,7:30 AM,5:10 PM,253.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,9:30 PM,5:10 PM+1,254.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,7:05 PM,9:35 AM+1,254.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,9:30 PM,5:10 PM+1,254.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,9:30 PM,5:10 PM+1,254.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,7:20 PM,5:10 PM+1,257.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,7:30 AM,9:35 AM+1,257.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,7:30 AM,5:05 PM,257.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,7:20 PM,9:35 AM+1,257.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,7:20 PM,9:35 AM+1,257.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,10:45 AM,9:35 AM+1,257.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,10:45 AM,5:05 PM+1,257.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:20 PM,5:05 PM+1,257.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM,257.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,9:20 AM,5:05 PM,258.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,9:30 PM,9:35 AM+1,258.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,9:30 PM,5:10 PM+1,258.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,7:05 PM,9:35 AM+1,258.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,7:05 PM,9:35 AM+1,258.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,1:55 PM,5:10 PM,260.0,4 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,6:15 PM,9:35 AM+1,260.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,1:55 PM,9:35 AM+1,260.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,11:40 AM,5:10 PM,260.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,1:55 PM,5:10 PM,260.0,4 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,5:10 PM,260.0,4 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+LUFTHANSA,8:30 PM,10:50 AM+1,260.0,15 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+ITA,1:55 PM,5:05 PM,260.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,1:55 PM,9:35 AM+1,260.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,1:55 PM,9:35 AM+1,260.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,1:55 PM,5:05 PM,260.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,1:55 PM,9:35 AM+1,260.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,6:15 PM,9:35 AM+1,260.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,6:15 PM,5:10 PM+1,260.0,23 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,1:55 PM,9:35 AM+1,264.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:15 PM,5:05 PM+1,264.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+LUFTHANSA,12:10 PM,4:25 PM,264.0,5 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,9:00 AM,4:25 PM,264.0,8 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+ITA,1:55 PM,5:05 PM,264.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,1:55 PM,9:35 AM+1,264.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+LUFTHANSA,6:45 AM,10:50 AM,264.0,5 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+ITA,1:55 PM,5:05 PM,264.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:15 PM,9:35 AM+1,264.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+LUFTHANSA,6:45 AM,4:25 PM,264.0,10 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+AIR FRANCE,7:25 AM,8:50 AM,266.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,3,False
+AIR FRANCE,9:20 PM,10:45 PM,266.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,3,False
+AIR FRANCE,9:15 AM,10:40 AM,266.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,3,False
+AIR FRANCE,4:20 PM,5:45 PM,266.0,2 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,3,False
+AEGEAN,2:05 PM,11:55 PM+1,267.0,34 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-10,0,False
+AEGEAN,6:10 PM,11:55 PM,267.0,6 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+AEGEAN,11:05 AM,11:55 PM,267.0,13 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,0,False
+LUFTHANSA,6:45 AM,11:10 PM,268.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,9:00 AM,11:10 PM,268.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:45 AM,11:10 PM,268.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,4:05 PM,268.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,11:10 PM,268.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:45 AM,3:50 PM,268.0,10 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:45 AM,11:10 PM,268.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,12:10 PM,11:10 PM,268.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:00 AM,11:10 PM,268.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,6:45 AM,11:10 PM,268.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,6:45 AM,4:05 PM,268.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ITA,6:10 AM,9:35 AM+1,268.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+LUFTHANSA,9:00 AM,11:10 PM,268.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,2:30 PM,11:10 PM,268.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,2:30 PM,11:10 PM,268.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,7:20 PM,5:10 PM+1,270.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,7:20 PM,9:35 AM+1,270.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,10:45 AM,5:10 PM,270.0,7 hr 25 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,7:20 PM,5:10 PM+1,270.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,7:20 PM,9:35 AM+1,270.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,10:45 AM,9:35 AM+1,270.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+AEGEAN,11:05 AM,11:55 PM+1,270.0,37 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,0,False
+ITA,7:20 PM,5:10 PM+1,270.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,10:45 AM,5:10 PM+1,270.0,31 hr 25 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,10:45 AM,5:05 PM+1,270.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-21,6,True
+ITA,7:20 PM,5:10 PM+1,270.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-20,6,False
+AIR EUROPA,5:10 PM,12:50 AM+1,271.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-19,2,False
+LUFTHANSA,10:35 AM,11:10 PM,271.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,10:50 AM,271.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,6:05 AM,10:50 AM,271.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,6:30 PM,11:10 PM,271.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+ITA,4:50 PM,9:35 AM+1,271.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,9:20 AM,5:10 PM,271.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+AIR EUROPA,10:55 AM,12:50 AM+2,271.0,38 hr 55 min,ORYParis-Orly Airport,2024-09-20,2,False
+AIR EUROPA,7:25 PM,12:50 AM+2,271.0,30 hr 25 min,ORYParis-Orly Airport,2024-09-20,2,False
+LUFTHANSA,7:30 AM,10:50 AM,271.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,6:05 AM,10:50 AM,271.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+AIR EUROPA,5:10 PM,12:50 AM+1,271.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-21,2,True
+LUFTHANSA,6:05 AM,3:50 PM,271.0,10 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,10:35 AM,11:10 PM,271.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,7:25 AM,3:50 PM,271.0,9 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,11:30 AM,11:10 PM,271.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,2:30 PM,11:10 PM,271.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,9:20 AM,5:10 PM,271.0,8 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,4:50 PM,9:35 AM+1,271.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+LUFTHANSA,6:05 AM,10:55 AM,271.0,5 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,2:30 PM,11:10 PM,271.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,11:30 AM,11:10 PM,271.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,7:35 PM,11:10 PM,271.0,4 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,11:30 AM,3:50 PM,271.0,5 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,9:45 AM,11:10 PM,271.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,9:45 AM,3:50 PM,271.0,7 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,6:35 PM,11:10 PM,271.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+ITA,10:45 AM,5:05 PM,274.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,10:45 AM,9:35 AM+1,274.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,10:45 AM,5:05 PM+1,274.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:30 AM,9:35 AM+1,274.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:30 AM,5:05 PM,274.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:20 PM,9:35 AM+1,274.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:20 PM,5:05 PM+1,274.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,10:45 AM,9:35 AM+1,274.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM+1,274.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,7:30 AM,9:35 AM+1,274.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-05,6,False
+ITA,4:50 PM,9:35 AM+1,275.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,9:30 PM,9:35 AM+1,275.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,9:30 PM,5:05 PM+1,275.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,7:05 PM,9:35 AM+1,275.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,9:20 AM,5:05 PM,275.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+LUFTHANSA,9:00 AM,10:50 AM+1,276.0,26 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,276.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+ITA,6:10 AM,9:35 AM+1,276.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,7:30 AM,5:05 PM+1,277.0,34 hr 35 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,5:05 PM+1,277.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-28,6,True
+AEGEAN,2:05 PM,11:55 PM+1,280.0,34 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-20,0,False
+LUFTHANSA,6:05 AM,11:10 PM,286.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,6:05 AM,11:10 PM,286.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,6:05 AM,11:10 PM,286.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,7:25 AM,11:10 PM,286.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,7:30 AM,11:10 PM,286.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+ITA,7:20 PM,5:10 PM+1,289.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,7:20 PM,9:35 AM+1,289.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,10:45 AM,9:35 AM+1,289.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,7:20 PM,5:10 PM+1,289.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,10:45 AM,5:10 PM+1,289.0,31 hr 25 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,10:55 AM,5:00 PM,289.0,7 hr 5 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,10:45 AM,9:35 AM+1,289.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,10:45 AM,9:35 AM+1,289.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,10:45 AM,5:05 PM+1,289.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,10:45 AM,5:05 PM+1,289.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,1:55 PM,5:05 PM,290.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,1:55 PM,5:00 PM,290.0,4 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,6:15 PM,9:35 AM+1,290.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,11:40 AM,9:35 AM+1,290.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,11:40 AM,5:05 PM,290.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,11:40 AM,9:35 AM+1,290.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,11:40 AM,5:10 PM,290.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+LUFTHANSA,9:45 AM,10:55 AM+1,290.0,26 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,11:30 AM,10:45 AM+1,290.0,24 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,10:35 AM,10:45 AM+1,290.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,9:55 AM,10:45 AM+1,290.0,25 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+ITA,4:50 PM,9:35 AM+1,290.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,11:40 AM,5:10 PM,290.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,1:55 PM,9:35 AM+1,290.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,6:15 PM,9:35 AM+1,290.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+LUFTHANSA,7:45 PM,10:45 AM+1,290.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+ITA,11:40 AM,5:10 PM,290.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+ITA,11:40 AM,9:35 AM+1,290.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+LUFTHANSA,7:35 PM,10:55 AM+1,290.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,6:35 PM,3:50 PM+1,290.0,22 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,3:50 PM+1,290.0,26 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,11:30 AM,10:55 AM+1,290.0,24 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,9:55 AM,10:45 AM+1,290.0,25 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,10:35 AM,10:45 AM+1,290.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ITA,7:05 PM,9:35 AM+1,290.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+LUFTHANSA,2:30 PM,10:55 AM+1,290.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+ITA,7:05 PM,5:10 PM+1,290.0,23 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,1:55 PM,9:35 AM+1,290.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+LUFTHANSA,2:30 PM,4:05 PM+1,290.0,26 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:35 PM,10:55 AM+1,290.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+LUFTHANSA,7:35 PM,4:05 PM+1,290.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+ITA,4:50 PM,9:35 AM+1,290.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,11:40 AM,5:05 PM,290.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,11:40 AM,9:35 AM+1,290.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-25,6,False
+ITA,11:40 AM,5:05 PM,290.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+LUFTHANSA,6:35 PM,4:05 PM+1,290.0,22 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,11:30 AM,10:45 AM+1,290.0,24 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ITA,6:15 PM,5:05 PM+1,290.0,23 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,11:40 AM,5:10 PM,290.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,5:05 PM,290.0,4 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,11:40 AM,5:05 PM,290.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+LUFTHANSA,8:30 PM,10:50 AM+1,292.0,15 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,10:45 AM,5:05 PM+1,293.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-11,6,False
+ITA,7:20 PM,5:05 PM+1,293.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:20 PM,9:35 AM+1,293.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,10:45 AM,5:05 PM+1,293.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,10:45 AM,9:35 AM+1,293.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,10:45 AM,5:05 PM,293.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:20 PM,5:05 PM+1,293.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-10,6,False
+ITA,7:30 AM,5:05 PM,293.0,10 hr 35 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,7:30 AM,9:35 AM+1,293.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,1:55 PM,5:05 PM+1,293.0,28 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM+1,293.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,4:50 PM,9:35 AM+1,294.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,6,False
+ITA,4:50 PM,9:35 AM+1,294.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,7:05 PM,9:35 AM+1,294.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,9:30 PM,5:05 PM+1,294.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,4:50 PM,9:35 AM+1,294.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:15 PM,9:35 AM+1,294.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,9:20 AM,5:05 PM,294.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+ITA,9:30 PM,9:35 AM+1,294.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,6,False
+LUFTHANSA,8:30 PM,4:05 PM+1,297.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:35 PM,10:50 AM+1,298.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,7:35 PM,10:50 AM+1,298.0,16 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,299.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:35 PM,10:50 AM+1,299.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:35 PM,10:50 AM+1,299.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,299.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+ITA,6:10 AM,9:35 AM+1,304.0,28 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,1:55 PM,5:05 PM+1,304.0,28 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-28,6,True
+ITA,1:55 PM,5:10 PM+1,304.0,28 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,1:55 PM,5:10 PM+1,304.0,28 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-26,6,False
+ITA,7:30 AM,5:05 PM+1,305.0,34 hr 35 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,5:05 PM+1,305.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,5:05 PM+1,305.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-21,6,True
+LUFTHANSA,2:30 PM,10:55 AM+1,305.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+ITA,10:45 AM,5:10 PM+1,305.0,31 hr 25 min,ORYParis-Orly Airport,2024-09-26,6,False
+LUFTHANSA,9:00 AM,10:50 AM+1,308.0,26 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:20 PM,10:50 AM+1,308.0,17 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+AEGEAN,11:05 AM,11:55 PM+1,309.0,37 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-10,0,False
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,7:15 PM,5:00 PM+1,312.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:10 PM,10:30 AM+1,312.0,14 hr 20 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:10 PM,5:00 PM+1,312.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:40 PM,10:30 AM+1,312.0,13 hr 50 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,8:00 AM,10:50 AM+1,312.0,27 hr 50 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,7:15 PM,5:00 PM+1,312.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,5:30 PM,5:00 PM+1,312.0,24 hr 30 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,8:00 AM,10:30 AM+1,312.0,27 hr 30 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,5:35 PM,5:00 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,312.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,1:05 PM,5:00 PM+1,312.0,28 hr 55 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,1:15 PM,5:00 PM+1,312.0,28 hr 45 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,312.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,3:10 PM,10:50 AM+1,312.0,20 hr 40 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,3:10 PM,4:55 PM+1,312.0,26 hr 45 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,5:30 PM,10:50 AM+1,312.0,18 hr 20 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,5:35 PM,5:00 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,5:35 PM,10:30 AM+1,312.0,17 hr 55 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,7:50 PM,10:30 AM+1,312.0,15 hr 40 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,1:15 PM,5:00 PM+1,312.0,28 hr 45 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,1:15 PM,10:30 AM+1,312.0,22 hr 15 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,8:00 AM,4:55 PM,312.0,9 hr 55 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:15 AM,10:30 AM+1,312.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,1:15 PM,10:30 AM+1,312.0,22 hr 15 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,5:30 PM,10:30 AM+1,312.0,18 hr,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,9:10 PM,5:00 PM+1,312.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,1:15 PM,10:30 AM+1,312.0,22 hr 15 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,7:25 PM,5:00 PM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,8:00 AM,10:50 AM+1,312.0,27 hr 50 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,5:30 PM,10:50 AM+1,312.0,18 hr 20 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,7:20 PM,10:50 AM+1,312.0,16 hr 30 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,8:00 AM,10:50 AM+1,312.0,27 hr 50 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,9:40 PM,10:50 AM+1,312.0,14 hr 10 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,9:15 AM,5:00 PM,312.0,8 hr 45 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,9:15 AM,10:30 AM+1,312.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,1:25 PM,10:30 AM+1,312.0,22 hr 5 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,1:25 PM,4:55 PM+1,312.0,28 hr 30 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,5:30 PM,10:30 AM+1,312.0,18 hr,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,312.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,3:10 PM,10:50 AM+1,312.0,20 hr 40 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,3:10 PM,4:55 PM+1,312.0,26 hr 45 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,5:35 PM,4:55 PM+1,312.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,9:10 PM,10:50 AM+1,312.0,14 hr 40 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,9:15 AM,10:30 AM+1,312.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,312.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,7:25 PM,10:50 AM+1,312.0,16 hr 25 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,5:35 PM,5:00 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,1:25 PM,5:00 PM+1,312.0,28 hr 35 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,1:25 PM,10:50 AM+1,312.0,22 hr 25 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,5:35 PM,10:30 AM+1,312.0,17 hr 55 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,312.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,9:15 AM,5:00 PM,312.0,8 hr 45 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,9:15 AM,5:00 PM,312.0,8 hr 45 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,1:15 PM,5:00 PM+1,312.0,28 hr 45 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,5:35 PM,5:00 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,7:15 PM,5:00 PM+1,312.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,9:10 PM,10:50 AM+1,312.0,14 hr 40 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,9:10 PM,5:00 PM+1,312.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,5:35 PM,4:55 PM+1,312.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,5:35 PM,10:30 AM+1,312.0,17 hr 55 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,3:10 PM,4:55 PM+1,312.0,26 hr 45 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,3:10 PM,10:30 AM+1,312.0,20 hr 20 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,1:15 PM,10:30 AM+1,312.0,22 hr 15 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,9:40 PM,10:50 AM+1,312.0,14 hr 10 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,9:10 PM,5:00 PM+1,312.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,9:15 AM,10:50 AM+1,312.0,26 hr 35 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,8:00 AM,10:30 AM+1,312.0,27 hr 30 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,8:00 AM,5:00 PM,312.0,10 hr,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,1:15 PM,10:30 AM+1,312.0,22 hr 15 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,7:15 PM,10:30 AM+1,312.0,16 hr 15 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM,312.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,312.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,8:00 AM,4:55 PM,312.0,9 hr 55 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,8:00 AM,10:50 AM+1,312.0,27 hr 50 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,312.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,5:35 PM,10:30 AM+1,312.0,17 hr 55 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,5:30 PM,10:50 AM+1,312.0,18 hr 20 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,5:35 PM,10:50 AM+1,312.0,18 hr 15 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,9:10 PM,10:30 AM+1,312.0,14 hr 20 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,7:15 PM,5:00 PM+1,312.0,22 hr 45 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,5:30 PM,10:50 AM+1,312.0,18 hr 20 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,312.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,312.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,312.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-25,10,False
+LUFTHANSA,2:30 PM,10:50 AM+1,313.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,12:10 PM,11:10 PM,314.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,6:45 AM,11:10 PM,314.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,314.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,11:10 PM,314.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,314.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+"LUFTHANSA, ITA",6:45 AM,5:05 PM,314.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,8,False
+LUFTHANSA,6:45 AM,3:50 PM,314.0,10 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,6:45 AM,11:10 PM,314.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,9:00 AM,3:50 PM,314.0,7 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,6:45 AM,11:10 PM,314.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,314.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,8,False
+LUFTHANSA,2:30 PM,11:10 PM,314.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:45 AM,4:05 PM,314.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,11:10 PM,314.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,12:10 PM,11:10 PM,314.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,12:10 PM,11:10 PM,314.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,6:45 AM,11:10 PM,314.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:45 AM,4:05 PM,314.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:00 AM,4:05 PM,314.0,8 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+"LUFTHANSA, ITA",2:30 PM,9:35 AM+1,314.0,20 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-25,8,False
+LUFTHANSA,8:10 AM,11:10 PM,314.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,9:00 AM,11:10 PM,314.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,2:30 PM,11:10 PM,314.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-20,10,False
+ROYAL AIR MAROC,1:05 PM,10:30 AM+1,315.0,22 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,10,True
+ROYAL AIR MAROC,1:05 PM,10:30 AM+1,315.0,22 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,10,False
+ROYAL AIR MAROC,6:30 PM,5:00 PM+1,315.0,23 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,10,False
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-27,10,False
+LUFTHANSA,6:05 AM,4:25 PM,315.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+ROYAL AIR MAROC,1:05 PM,10:30 AM+1,315.0,22 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,10,True
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,315.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,10,True
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-08,10,True
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,10,True
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,10,False
+ROYAL AIR MAROC,6:30 PM,5:00 PM+1,315.0,23 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,10,True
+ROYAL AIR MAROC,6:30 PM,5:00 PM+1,315.0,23 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,10,True
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,315.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,10,False
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-23,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-05,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-26,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,10,True
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-22,10,True
+ROYAL AIR MAROC,1:05 PM,10:30 AM+1,315.0,22 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,10,True
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,10,False
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,315.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-04,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-19,10,False
+ROYAL AIR MAROC,6:30 PM,5:00 PM+1,315.0,23 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,10,False
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,315.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-25,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,315.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,10,False
+ROYAL AIR MAROC,6:30 PM,10:30 AM+1,315.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-15,10,True
+ROYAL AIR MAROC,1:05 PM,10:30 AM+1,315.0,22 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,10,True
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,10,True
+LUFTHANSA,6:05 AM,4:25 PM,315.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+ROYAL AIR MAROC,6:30 PM,5:00 PM+1,315.0,23 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,10,True
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,315.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-11,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,315.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,10,False
+ITA,10:50 AM,5:10 PM,319.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,7:30 AM,5:00 PM,319.0,10 hr 30 min,ORYParis-Orly Airport,2024-09-23,6,False
+ITA,10:50 AM,9:35 AM+1,319.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,10:45 AM,5:05 PM+1,319.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-28,6,True
+ITA,10:45 AM,5:05 PM,319.0,7 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,10:45 AM,5:05 PM+1,319.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,10:45 AM,9:35 AM+1,319.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,7:20 PM,5:10 PM+1,319.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+ITA,10:45 AM,5:05 PM+1,319.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,7:20 PM,5:10 PM+1,319.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,10:45 AM,9:35 AM+1,319.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,9:30 PM,5:00 PM+1,320.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,4:50 PM,9:35 AM+1,320.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-27,6,False
+ITA,9:30 PM,9:35 AM+1,320.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,4:50 PM,9:35 AM+1,320.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,9:30 PM,9:35 AM+1,320.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,9:30 PM,5:05 PM+1,320.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+"LUFTHANSA, ITA",2:30 PM,9:35 AM+1,321.0,20 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-27,8,False
+"LUFTHANSA, ITA",6:35 PM,9:35 AM+1,321.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-25,8,False
+LUFTHANSA,2:30 PM,10:55 AM+1,321.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+"LUFTHANSA, ITA",6:35 PM,9:35 AM+1,321.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-17,8,False
+"LUFTHANSA, ITA",7:35 PM,9:35 AM+1,321.0,15 hr,CDGParis Charles de Gaulle Airport,2024-09-25,8,False
+"LUFTHANSA, ITA",7:35 PM,9:35 AM+1,321.0,15 hr,CDGParis Charles de Gaulle Airport,2024-09-17,8,False
+ROYAL AIR MAROC,9:15 AM,4:55 PM+1,322.0,32 hr 40 min,ORYParis-Orly Airport,2024-09-22,10,True
+ITA,11:40 AM,9:35 AM+1,322.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,11:40 AM,5:00 PM,322.0,6 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,322.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,4,False
+"AUSTRIAN, ITA",5:55 PM,5:05 PM+1,322.0,24 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,4,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,322.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-17,4,False
+LUFTHANSA,6:35 PM,4:05 PM+1,322.0,22 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ROYAL AIR MAROC,9:10 PM,10:30 AM+2,322.0,38 hr 20 min,ORYParis-Orly Airport,2024-09-21,10,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,322.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-17,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,322.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,4,False
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,322.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,4,False
+ITA,6:15 PM,5:00 PM+1,322.0,23 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,322.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,4,False
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,322.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,4,False
+ITA,11:40 AM,9:35 AM+1,322.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-19,6,False
+ITA,6:15 PM,9:35 AM+1,322.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ROYAL AIR MAROC,9:15 AM,5:00 PM+1,322.0,32 hr 45 min,ORYParis-Orly Airport,2024-09-20,10,False
+ITA,11:40 AM,5:05 PM,326.0,6 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,11:40 AM,9:35 AM+1,326.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,10:50 AM,5:10 PM+1,333.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-19,6,False
+LUFTHANSA,8:30 PM,4:05 PM+1,333.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,10:45 AM,5:05 PM+1,333.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-21,6,True
+LUFTHANSA,6:35 PM,10:50 AM+1,334.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,1:55 PM,5:00 PM+1,334.0,28 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+LUFTHANSA,2:30 PM,10:50 AM+1,335.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,6:35 PM,10:50 AM+1,335.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,345.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,12:10 PM,10:50 AM+1,345.0,23 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,2:25 PM,10:50 AM+1,345.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,12:10 PM,10:50 AM+1,345.0,23 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+ITA,10:45 AM,9:35 AM+1,349.0,23 hr 50 min,ORYParis-Orly Airport,2024-09-27,6,False
+LUFTHANSA,8:30 PM,4:05 PM+1,349.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,349.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,7:20 PM,9:35 AM+1,349.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-22,6,True
+ITA,10:50 AM,9:35 AM+1,349.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-19,6,False
+ITA,10:45 AM,5:05 PM+1,349.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,10:45 AM,5:05 PM+1,349.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,10:50 AM,9:35 AM+1,349.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,10:45 AM,5:10 PM+1,349.0,31 hr 25 min,ORYParis-Orly Airport,2024-09-26,6,False
+ITA,9:20 AM,5:05 PM,350.0,8 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,7:05 PM,9:35 AM+1,350.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,4:50 PM,9:35 AM+1,350.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,7:05 PM,9:35 AM+1,350.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+"LUFTHANSA, ITA",2:30 PM,9:35 AM+1,350.0,20 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-11,8,False
+LUFTHANSA,2:30 PM,10:50 AM+1,350.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,4:50 PM,9:35 AM+1,350.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,9:30 PM,5:00 PM+1,350.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,9:20 AM,5:00 PM,350.0,8 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,6,False
+ITA,9:30 PM,5:05 PM+1,350.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+ITA,7:05 PM,9:35 AM+1,354.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,354.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,4,False
+"LUFTHANSA, ITA",6:35 PM,9:35 AM+1,357.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-11,8,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,358.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,358.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,4,False
+LUFTHANSA,2:30 PM,10:55 AM+1,359.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,9:45 AM,10:50 AM+1,359.0,26 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,7:35 PM,10:55 AM+1,359.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,11:30 AM,10:50 AM+1,359.0,24 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,10:35 AM,10:50 AM+1,359.0,25 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,9:45 AM,10:50 AM+1,359.0,26 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,11:30 AM,10:55 AM+1,359.0,24 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,10:35 AM,10:50 AM+1,359.0,25 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:35 PM,10:55 AM+1,359.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,2:30 PM,4:05 PM+1,359.0,26 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+ITA,6:15 PM,5:00 PM+1,361.0,23 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,11:40 AM,9:35 AM+1,361.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,1:55 PM,9:35 AM+1,361.0,20 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,11:40 AM,9:35 AM+1,361.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,6,False
+ITA,6:15 PM,9:35 AM+1,365.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:15 PM,5:10 PM+1,365.0,23 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,6,False
+ITA,6:15 PM,5:00 PM+1,365.0,23 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,371.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,7:20 PM,4:55 PM+1,371.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,371.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,371.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-05,10,False
+"LUFTHANSA, ITA",6:45 AM,5:10 PM,371.0,11 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-14,8,True
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,371.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,8:00 AM,4:55 PM,371.0,9 hr 55 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,9:40 PM,4:55 PM+1,371.0,20 hr 15 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,5:35 PM,4:55 PM+1,371.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,374.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,374.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,10,False
+ROYAL AIR MAROC,1:05 PM,4:55 PM+1,374.0,28 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,10,False
+"LUFTHANSA, ITA",6:45 AM,5:05 PM,375.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,8,False
+"LUFTHANSA, ITA",2:30 PM,9:35 AM+1,375.0,20 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-11,8,False
+LUFTHANSA,8:30 PM,4:05 PM+1,379.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,8:30 PM,10:55 AM+1,379.0,15 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-17,7,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,380.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,4,True
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,380.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,4,True
+ITA,7:20 PM,5:00 PM+1,381.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-22,6,True
+ITA,10:50 AM,9:35 AM+1,381.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-20,6,False
+ITA,7:05 PM,5:00 PM+1,382.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,9:30 PM,5:00 PM+1,382.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ROYAL AIR MAROC,7:30 AM,10:50 AM+1,382.0,28 hr 20 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,1:00 PM,4:55 PM+1,382.0,28 hr 55 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,7:30 AM,5:00 PM,382.0,10 hr 30 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,7:30 AM,10:30 AM+1,382.0,28 hr,ORYParis-Orly Airport,2024-09-22,10,True
+ITA,7:05 PM,5:00 PM+1,382.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ROYAL AIR MAROC,7:30 AM,4:55 PM,382.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-25,10,False
+ROYAL AIR MAROC,2:25 PM,4:55 PM+1,382.0,27 hr 30 min,ORYParis-Orly Airport,2024-09-25,10,False
+ITA,9:30 PM,5:05 PM+1,382.0,20 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,6,False
+"LUFTHANSA, ITA",7:35 PM,9:35 AM+1,383.0,15 hr,CDGParis Charles de Gaulle Airport,2024-09-10,8,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,384.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,4,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,384.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,4,False
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,384.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,4,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,384.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-10,4,False
+ITA,7:30 AM,9:35 AM+1,385.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-04,6,False
+ITA,9:30 PM,9:35 AM+1,386.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+LUFTHANSA,2:30 PM,10:45 AM+1,387.0,21 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ROYAL AIR MAROC,1:00 PM,10:50 AM+1,394.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,7:50 PM,4:55 PM+1,398.0,22 hr 5 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,7:15 PM,10:50 AM+1,398.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,398.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-10,10,False
+"LUFTHANSA, ITA",8:30 PM,5:05 PM+1,398.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,8,False
+ROYAL AIR MAROC,9:40 PM,4:55 PM+1,398.0,20 hr 15 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,5:30 PM,4:55 PM+1,398.0,24 hr 25 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,5:30 PM,10:50 AM+1,398.0,18 hr 20 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,398.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,1:15 PM,10:50 AM+1,398.0,22 hr 35 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,8:00 AM,10:50 AM+1,398.0,27 hr 50 min,ORYParis-Orly Airport,2024-09-10,10,False
+ROYAL AIR MAROC,5:35 PM,4:55 PM+1,398.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,398.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,398.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,398.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,5:35 PM,4:55 PM+1,398.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-08,10,True
+ROYAL AIR MAROC,8:00 AM,4:55 PM,398.0,9 hr 55 min,ORYParis-Orly Airport,2024-09-11,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,398.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-08,10,True
+AEGEAN,11:05 AM,11:55 PM+1,401.0,37 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-20,0,False
+ROYAL AIR MAROC,1:05 PM,10:50 AM+1,401.0,22 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,401.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-15,10,True
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,401.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-08,10,True
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,401.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,10,False
+ROYAL AIR MAROC,6:30 PM,10:50 AM+1,401.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,10,False
+LUFTHANSA,2:30 PM,10:45 AM+1,403.0,21 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+ROYAL AIR MAROC,1:00 PM,4:55 PM+1,406.0,28 hr 55 min,ORYParis-Orly Airport,2024-09-17,10,False
+ROYAL AIR MAROC,7:30 AM,10:50 AM+1,406.0,28 hr 20 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,1:00 PM,4:55 PM+1,406.0,28 hr 55 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,7:30 AM,4:55 PM,406.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,7:30 AM,10:30 AM+1,406.0,28 hr,ORYParis-Orly Airport,2024-09-23,10,False
+ROYAL AIR MAROC,1:00 PM,5:00 PM+1,406.0,29 hr,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,7:30 AM,5:00 PM,406.0,10 hr 30 min,ORYParis-Orly Airport,2024-09-28,10,True
+ROYAL AIR MAROC,7:30 AM,4:55 PM,406.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,2:25 PM,4:55 PM+1,406.0,27 hr 30 min,ORYParis-Orly Airport,2024-09-22,10,True
+ROYAL AIR MAROC,7:30 AM,10:50 AM+1,406.0,28 hr 20 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,7:30 AM,4:55 PM,406.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,1:00 PM,10:50 AM+1,406.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,1:00 PM,4:55 PM+1,406.0,28 hr 55 min,ORYParis-Orly Airport,2024-09-26,10,False
+ROYAL AIR MAROC,8:00 AM,4:55 PM+1,408.0,33 hr 55 min,ORYParis-Orly Airport,2024-09-15,10,True
+ROYAL AIR MAROC,8:00 AM,4:55 PM+1,408.0,33 hr 55 min,ORYParis-Orly Airport,2024-09-08,10,True
+LUFTHANSA,6:45 AM,10:50 AM,414.0,5 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+ROYAL AIR MAROC,8:00 AM,5:00 PM,419.0,10 hr,ORYParis-Orly Airport,2024-09-14,10,True
+ITA,7:30 AM,5:10 PM,420.0,10 hr 40 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,10:45 AM,5:05 PM+1,420.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ITA,7:20 PM,5:00 PM+1,420.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-15,6,True
+ITA,7:20 PM,9:35 AM+1,420.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-15,6,True
+LUFTHANSA,2:30 PM,11:10 PM,421.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,10:35 AM,4:05 PM,421.0,6 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,6:05 AM,10:55 AM,421.0,5 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,10:35 AM,11:10 PM,421.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,11:30 AM,4:05 PM,421.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,11:30 AM,11:10 PM,421.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,6:30 PM,11:10 PM,421.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+ITA,7:05 PM,5:00 PM+1,421.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+LUFTHANSA,9:55 AM,11:10 PM,421.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,7:25 AM,4:05 PM,421.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,11:30 AM,11:10 PM,421.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+ITA,4:50 PM,9:35 AM+1,421.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,9:30 PM,5:00 PM+1,421.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+LUFTHANSA,6:05 AM,4:05 PM,421.0,11 hr,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,7:30 AM,10:50 AM,421.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,6:05 AM,10:50 AM,421.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,6:05 AM,10:50 AM,421.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,7:30 AM,10:50 AM,421.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,9:55 AM,4:05 PM,421.0,7 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,2:30 PM,11:10 PM,421.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,10:35 AM,11:10 PM,421.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,7:35 PM,11:10 PM,421.0,4 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,6:05 AM,10:50 AM,421.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,7:30 AM,10:50 AM,421.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+ITA,4:50 PM,9:35 AM+1,421.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,7:05 PM,9:35 AM+1,421.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,7:05 PM,5:00 PM+1,421.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,9:30 PM,9:35 AM+1,421.0,13 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,9:30 PM,5:00 PM+1,421.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+LUFTHANSA,6:35 PM,11:10 PM,421.0,5 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+ITA,4:50 PM,9:35 AM+1,425.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,7:05 PM,5:00 PM+1,425.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,9:30 PM,5:00 PM+1,425.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,7:05 PM,9:35 AM+1,425.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,6,False
+ITA,10:45 AM,5:05 PM+1,429.0,31 hr 20 min,ORYParis-Orly Airport,2024-09-17,6,False
+ROYAL AIR MAROC,7:30 AM,4:55 PM,430.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-20,10,False
+ROYAL AIR MAROC,7:30 AM,10:50 AM+1,430.0,28 hr 20 min,ORYParis-Orly Airport,2024-09-14,10,True
+ROYAL AIR MAROC,1:00 PM,10:50 AM+1,430.0,22 hr 50 min,ORYParis-Orly Airport,2024-09-19,10,False
+ROYAL AIR MAROC,2:25 PM,5:00 PM+1,430.0,27 hr 35 min,ORYParis-Orly Airport,2024-09-27,10,False
+ROYAL AIR MAROC,7:30 AM,5:00 PM,430.0,10 hr 30 min,ORYParis-Orly Airport,2024-09-21,10,True
+ROYAL AIR MAROC,7:30 AM,4:55 PM,430.0,10 hr 25 min,ORYParis-Orly Airport,2024-09-27,10,False
+AIR EUROPA,7:25 PM,12:50 AM+1,433.0,6 hr 25 min,ORYParis-Orly Airport,2024-09-05,2,False
+AIR EUROPA,5:10 PM,12:50 AM+1,433.0,8 hr 40 min,ORYParis-Orly Airport,2024-09-05,2,False
+LUFTHANSA,6:05 AM,11:10 PM,436.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,6:05 AM,11:10 PM,436.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,7:25 AM,11:10 PM,436.0,16 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+ITA,7:30 AM,9:35 AM+1,459.0,27 hr 5 min,ORYParis-Orly Airport,2024-09-14,6,True
+ITA,7:20 PM,5:00 PM+1,459.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-22,6,True
+ITA,7:20 PM,9:35 AM+1,463.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-08,6,True
+ITA,9:30 PM,5:00 PM+1,464.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,7:05 PM,5:00 PM+1,464.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,1:55 PM,5:05 PM+1,474.0,28 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-21,6,True
+LUFTHANSA,8:30 PM,10:50 AM+1,479.0,15 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,9:00 AM,11:10 PM,483.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,2:25 PM,11:10 PM,483.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,2:30 PM,11:10 PM,483.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,9:00 AM,11:10 PM,483.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,8:10 AM,11:10 PM,483.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,8:10 AM,11:10 PM,483.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,9:00 AM,11:10 PM,483.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-11,7,False
+LUFTHANSA,12:10 PM,11:10 PM,483.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,12:10 PM,11:10 PM,483.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:45 AM,11:10 PM,483.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,9:00 AM,4:05 PM,483.0,8 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,6:45 AM,11:10 PM,483.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,6:45 AM,4:05 PM,483.0,10 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,9:00 AM,11:10 PM,483.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,12:10 PM,11:10 PM,483.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-25,7,False
+LUFTHANSA,2:30 PM,11:10 PM,483.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,9:00 AM,11:10 PM,483.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:45 AM,11:10 PM,483.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:45 AM,11:10 PM,483.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,6:05 AM,4:25 PM,484.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:05 AM,4:25 PM,484.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,4:25 PM,484.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,9:45 AM,4:25 PM,484.0,7 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,10:35 AM,4:25 PM,484.0,6 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:05 AM,10:50 AM,487.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:30 PM,11:10 PM,487.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,7,False
+LUFTHANSA,6:05 AM,10:55 AM,487.0,5 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,9:55 AM,11:10 PM,487.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,6:30 PM,11:10 PM,487.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,7:30 AM,10:50 AM,487.0,4 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,11:30 AM,11:10 PM,487.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,10:35 AM,11:10 PM,487.0,13 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,6:30 PM,11:10 PM,487.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,11:30 AM,11:10 PM,487.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,8:35 PM,4:25 PM+1,495.0,20 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,495.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,9:00 AM,10:50 AM+1,495.0,26 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,6:05 AM,11:10 PM,502.0,18 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,6:30 PM,10:50 AM+1,509.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,7:45 PM,10:50 AM+1,509.0,16 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,509.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,9:45 AM,10:50 AM+1,509.0,26 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,9:45 AM,10:50 AM+1,509.0,26 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,2:30 PM,10:50 AM+1,509.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,6:30 PM,10:50 AM+1,509.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,2:30 PM,10:50 AM+1,509.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,9:45 AM,10:50 AM+1,509.0,26 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,2:30 PM,10:50 AM+1,509.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,10:35 AM,10:50 AM+1,509.0,25 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,10:35 AM,10:50 AM+1,509.0,25 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,7:35 PM,4:05 PM+1,509.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,11:30 AM,10:50 AM+1,509.0,24 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,6:35 PM,4:05 PM+1,509.0,22 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+LUFTHANSA,2:30 PM,4:05 PM+1,509.0,26 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,7,False
+ITA,7:20 PM,5:00 PM+1,511.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-15,6,True
+ITA,7:05 PM,5:00 PM+1,512.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+ITA,7:05 PM,5:00 PM+1,512.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,6,True
+ITA,9:30 PM,5:00 PM+1,512.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,5,True
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,5,False
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-10,5,False
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,5,True
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,5,False
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-11,5,False
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,5,True
+EGYPTAIR,10:05 PM,10:00 AM+1,516.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-22,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-25,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-20,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-27,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-15,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-08,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-11,5,False
+EGYPTAIR,3:50 PM,10:00 AM+1,518.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,5,False
+TUNISAIR,11:45 AM,11:55 AM+1,518.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-25,15,False
+EGYPTAIR,10:05 PM,10:00 AM+1,519.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-21,5,True
+EGYPTAIR,10:05 PM,10:00 AM+1,519.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-28,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,521.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-21,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,521.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-28,5,True
+TUNISAIR,8:35 PM,7:55 PM+1,523.0,24 hr 20 min,ORYParis-Orly Airport,2024-09-20,15,False
+EGYPTAIR,10:05 PM,10:00 AM+1,524.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,5,False
+ROYAL AIR MAROC,8:00 AM,5:00 PM,525.0,10 hr,ORYParis-Orly Airport,2024-09-08,10,True
+EGYPTAIR,3:50 PM,10:00 AM+1,526.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-05,5,False
+ITA,1:55 PM,5:05 PM+1,526.0,28 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,6,True
+ITA,1:55 PM,5:00 PM+1,526.0,28 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+EGYPTAIR,10:05 PM,10:00 AM+1,527.0,12 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,5,True
+EGYPTAIR,3:50 PM,10:00 AM+1,529.0,19 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,5,True
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,529.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+"SWISS, LUFTHANSA",8:20 PM,10:50 AM+1,533.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,13,False
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,537.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,8,False
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,537.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-05,8,False
+"LUFTHANSA, ITA",2:30 PM,9:35 AM+1,537.0,20 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-04,8,False
+"LUFTHANSA, ITA",6:45 AM,5:05 PM,537.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-10,8,False
+TUNISAIR,7:45 PM,7:55 PM+1,541.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-27,15,False
+"LUFTHANSA, ITA",6:35 PM,9:35 AM+1,544.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-04,8,False
+"LUFTHANSA, ITA",6:05 AM,5:05 PM,544.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-04,8,False
+"LUFTHANSA, ITA",7:35 PM,9:35 AM+1,544.0,15 hr,CDGParis Charles de Gaulle Airport,2024-09-04,8,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,545.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,4,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,545.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,4,False
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,545.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,545.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,4,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,546.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-14,16,True
+TURKISH AIRLINES,2:10 PM,10:40 PM,546.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,546.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,546.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,546.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,546.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,546.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,546.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-14,16,True
+TURKISH AIRLINES,2:10 PM,10:40 PM,546.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,16,True
+TURKISH AIRLINES,11:15 AM,10:40 PM,546.0,12 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,546.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,546.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+LUFTHANSA,9:00 AM,11:10 PM,549.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:45 AM,3:50 PM,549.0,10 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,7,False
+LUFTHANSA,6:45 AM,11:10 PM,549.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-05,7,False
+LUFTHANSA,8:10 AM,11:10 PM,549.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,2:25 PM,11:10 PM,549.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,6:45 AM,11:10 PM,549.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:25 PM,11:10 PM,549.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,8:10 AM,11:10 PM,549.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,9:00 AM,11:10 PM,549.0,15 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,6:45 AM,11:10 PM,549.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,2:30 PM,11:10 PM,549.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,8:10 AM,11:10 PM,549.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,12:10 PM,11:10 PM,549.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,2:25 PM,11:10 PM,549.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,6:05 AM,4:25 PM,550.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,4:25 PM,550.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,4:25 PM,550.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,9:45 AM,4:25 PM,550.0,7 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,9:45 AM,4:25 PM,550.0,7 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:05 AM,4:25 PM,550.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,551.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-15,16,True
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,551.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-15,16,True
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,551.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-08,16,True
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,551.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,16,True
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,551.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,16,True
+TURKISH AIRLINES,7:20 AM,10:40 PM,554.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-25,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+TURKISH AIRLINES,12:05 PM,10:40 PM,554.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,554.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,554.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,11:15 AM,10:40 PM,554.0,12 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-25,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,554.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,7:20 AM,10:40 PM,554.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,554.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,554.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,554.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,554.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,554.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,4:05 PM,4:15 PM+1,554.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,554.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,554.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,5:55 PM,4:15 PM+1,554.0,23 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,554.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,554.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,554.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,554.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,554.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,554.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+TURKISH AIRLINES,5:55 PM,4:15 PM+1,554.0,23 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,554.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,554.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,554.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,554.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,554.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,554.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,554.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,554.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,554.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-25,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,554.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,554.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,554.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,554.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,554.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,555.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,12:05 PM,9:05 AM+1,555.0,22 hr,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,555.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,555.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,555.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+LUFTHANSA,6:45 AM,4:25 PM,557.0,10 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,12:10 PM,4:25 PM,557.0,5 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,9:00 AM,4:25 PM,557.0,8 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+TURKISH AIRLINES,7:20 AM,4:15 PM,558.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-17,16,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,558.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,558.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-17,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,558.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,558.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-17,16,False
+LUFTHANSA,8:35 PM,4:25 PM+1,561.0,20 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+"SWISS, LUFTHANSA",8:20 PM,10:45 AM+1,563.0,15 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,13,False
+"SWISS, LUFTHANSA",9:45 AM,11:10 PM,563.0,14 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-27,13,False
+LUFTHANSA,2:30 PM,11:10 PM,564.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,6:00 AM,10:50 AM,564.0,5 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+LUFTHANSA,7:25 AM,10:50 AM,564.0,4 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-23,7,False
+TURKISH AIRLINES,4:05 PM,4:15 PM+1,564.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+LUFTHANSA,10:30 AM,11:10 PM,564.0,13 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+TURKISH AIRLINES,7:20 AM,4:15 PM,564.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,564.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,564.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,16,False
+LUFTHANSA,11:30 AM,11:10 PM,564.0,12 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+TURKISH AIRLINES,2:10 PM,10:40 PM,564.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,564.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,564.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,564.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+ITA,7:20 PM,5:00 PM+1,567.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-08,6,True
+ITA,9:30 PM,5:00 PM+1,568.0,20 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+ITA,7:05 PM,5:00 PM+1,568.0,22 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+LUFTHANSA,6:30 PM,10:45 AM+1,575.0,17 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+LUFTHANSA,2:30 PM,10:50 AM+1,575.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,10:35 AM,10:50 AM+1,575.0,25 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,9:55 AM,10:50 AM+1,575.0,25 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,10:30 AM,10:50 AM+1,575.0,25 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,11:30 AM,10:50 AM+1,575.0,24 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+ROYAL AIR MAROC,9:40 PM,4:55 PM+1,583.0,20 hr 15 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,7:15 PM,4:55 PM+1,583.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,583.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-04,10,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,586.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,16,True
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,586.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,10,False
+ITA,4:50 PM,9:35 AM+1,590.0,17 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-15,6,True
+TURKISH AIRLINES,2:10 PM,10:40 PM,602.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,11:15 AM,10:40 PM,602.0,12 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,602.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,602.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,602.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+"LUFTHANSA, ITA",8:10 AM,5:05 PM,603.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,8,True
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,603.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-10,8,False
+"SWISS, LUFTHANSA",8:10 PM,10:50 AM+1,603.0,15 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,13,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,607.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,4,True
+TURKISH AIRLINES,11:05 AM,10:40 PM,613.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+LUFTHANSA,6:10 PM,10:45 AM+1,622.0,17 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,7,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,623.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,623.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,623.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-26,16,False
+LUFTHANSA,2:25 PM,11:10 PM,626.0,9 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,12:10 PM,11:10 PM,626.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,12:10 PM,11:10 PM,626.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,6:45 AM,11:10 PM,626.0,17 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,8:10 AM,11:10 PM,626.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,12:10 PM,11:10 PM,626.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,2:30 PM,11:10 PM,626.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+LUFTHANSA,8:10 AM,11:10 PM,626.0,16 hr,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,2:30 PM,11:10 PM,626.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-27,7,False
+LUFTHANSA,10:35 AM,4:25 PM,627.0,6 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,7,True
+LUFTHANSA,7:30 AM,4:25 PM,627.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+LUFTHANSA,7:30 AM,4:25 PM,627.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,6:05 AM,4:25 PM,627.0,11 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,7,True
+ITA,1:55 PM,5:00 PM+1,651.0,28 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-08,6,True
+LUFTHANSA,6:30 PM,10:50 AM+1,652.0,17 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,7,True
+LUFTHANSA,2:30 PM,11:10 PM,653.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,6:30 PM,11:10 PM,653.0,5 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,668.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,668.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,672.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,16,False
+TURKISH AIRLINES,4:05 PM,4:15 PM+1,672.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,16,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,672.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,7:20 AM,10:40 PM,672.0,16 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,11:15 AM,10:40 PM,672.0,12 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,672.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,672.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,672.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-11,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,672.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-14,16,True
+TURKISH AIRLINES,12:05 PM,10:40 PM,672.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,672.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-10,16,False
+TURKISH AIRLINES,4:05 PM,10:40 PM,672.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,672.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,12:05 PM,10:40 PM,672.0,11 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,672.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+TURKISH AIRLINES,11:05 AM,10:40 PM,672.0,12 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-10,16,False
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,677.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-08,16,True
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,681.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-05,16,False
+"LUFTHANSA, ITA",7:30 AM,5:05 PM,683.0,10 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-22,8,True
+"LUFTHANSA, ITA",6:05 AM,5:05 PM,683.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-22,8,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,684.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,4,True
+"SWISS, ITA",9:45 AM,9:35 AM+1,684.0,24 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-19,12,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,684.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-19,4,False
+"AUSTRIAN, ITA",9:55 AM,9:35 AM+1,684.0,24 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,4,True
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,684.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-25,4,False
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,684.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-25,4,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,684.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,684.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-25,4,False
+ITA,7:20 PM,5:00 PM+1,689.0,22 hr 40 min,ORYParis-Orly Airport,2024-09-08,6,True
+LUFTHANSA,2:30 PM,11:10 PM,715.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-20,7,False
+LUFTHANSA,2:30 PM,11:10 PM,715.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-22,7,True
+LUFTHANSA,12:10 PM,11:10 PM,715.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-15,7,True
+LUFTHANSA,2:30 PM,11:10 PM,715.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+AIR ALGERIE,4:55 PM,6:10 PM+1,733.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,4:55 PM,8:30 AM+1,733.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,4:55 PM,6:10 PM+1,733.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,4:55 PM,8:30 AM+1,733.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,733.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,4:55 PM,6:10 PM+1,733.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,4:55 PM,5:00 PM+1,733.0,25 hr 5 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,733.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,4:55 PM,5:00 PM+1,733.0,25 hr 5 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,736.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,9:40 PM,6:10 PM+1,736.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,736.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,12:15 PM,5:00 PM,736.0,5 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,12:15 PM,8:30 AM+1,736.0,21 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,736.0,13 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,736.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+TURKISH AIRLINES,5:55 PM,9:05 AM+1,750.0,16 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-08,16,True
+LUFTHANSA,2:30 PM,11:10 PM,756.0,9 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,7,True
+AIR ALGERIE,6:15 PM,5:00 PM+1,761.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,7:45 PM,6:10 PM+1,761.0,23 hr 25 min,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,6:15 PM,5:00 PM+1,761.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,6:15 PM,6:10 PM+1,762.0,24 hr 55 min,ORYParis-Orly Airport,2024-09-11,1,False
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,765.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-25,8,False
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,767.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,767.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,767.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+TURKISH AIRLINES,2:10 PM,9:05 AM+1,767.0,19 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+TURKISH AIRLINES,11:05 AM,9:05 AM+1,767.0,23 hr,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+AIR ALGERIE,6:15 PM,6:10 PM+1,769.0,24 hr 55 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,6:00 PM,6:10 PM+1,770.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,6:00 PM,5:00 PM+1,770.0,24 hr,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,6:00 PM,5:00 PM+1,770.0,24 hr,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,6:00 PM,6:10 PM+1,770.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,5:55 PM,6:10 PM+1,770.0,25 hr 15 min,ORYParis-Orly Airport,2024-09-22,1,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,773.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,4,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,7:40 AM,5:00 PM,791.0,10 hr 20 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+2,791.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,8:10 PM,6:10 PM+1,791.0,23 hr,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,8:10 PM,5:00 PM+1,791.0,21 hr 50 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,2:00 PM,5:00 PM+1,791.0,28 hr,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,791.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,7:40 AM,5:00 PM,791.0,10 hr 20 min,ORYParis-Orly Airport,2024-09-28,1,True
+AIR ALGERIE,7:40 AM,5:00 PM+1,791.0,34 hr 20 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,791.0,23 hr,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,791.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,791.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,791.0,23 hr,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,8:10 PM,5:00 PM+1,791.0,21 hr 50 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,2:00 PM,5:00 PM+1,791.0,28 hr,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+2,791.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-21,1,True
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,791.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,2:00 PM,6:10 PM+1,791.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,791.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,8:10 PM,6:10 PM+1,791.0,23 hr,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+2,791.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,791.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,8:10 PM,6:10 PM+1,791.0,23 hr,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,791.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,7:40 AM,8:30 AM+1,791.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,791.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,791.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-25,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,792.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,792.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,792.0,23 hr,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,12:15 PM,8:30 AM+1,794.0,21 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,9:00 AM,8:30 AM+1,794.0,24 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,9:40 PM,6:10 PM+1,794.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-22,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,794.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,3:30 PM,6:10 PM+1,794.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,9:00 AM,5:00 PM,794.0,9 hr,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,9:40 PM,6:10 PM+1,794.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-23,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-22,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,794.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-22,1,True
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-22,1,True
+AIR ALGERIE,3:30 PM,6:10 PM+1,794.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,1,True
+AIR ALGERIE,9:00 AM,5:00 PM,794.0,9 hr,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-25,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,794.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,3:30 PM,5:00 PM+1,794.0,26 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,6:00 PM,5:00 PM+1,794.0,24 hr,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,9:40 PM,5:00 PM+1,794.0,20 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,794.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,3:30 PM,6:10 PM+1,794.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-19,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,794.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-19,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,794.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-19,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,794.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-19,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,794.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-19,1,False
+AIR ALGERIE,9:40 PM,6:10 PM+1,794.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-21,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,794.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+AIR ALGERIE,3:30 PM,6:10 PM+1,795.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+AIR ALGERIE,6:00 PM,6:10 PM+1,795.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+AIR ALGERIE,4:55 PM,6:10 PM+1,795.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,9:40 PM,6:10 PM+1,795.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+AIR ALGERIE,4:55 PM,6:40 PM+1,795.0,26 hr 45 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,4:55 PM,6:10 PM+1,795.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,795.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,3:30 PM,6:10 PM+1,797.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-26,1,False
+AIR ALGERIE,9:40 PM,6:10 PM+1,798.0,21 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,832.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-15,11,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,832.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-14,1,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,832.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-22,11,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,832.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-08,11,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,837.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-26,11,False
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,837.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-19,11,False
+AIR ALGERIE,12:40 PM,5:00 PM+1,839.0,29 hr 20 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,12:40 PM,6:10 PM+1,839.0,30 hr 30 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,12:40 PM,6:10 PM+1,839.0,30 hr 30 min,ORYParis-Orly Airport,2024-09-22,1,True
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-23,1,False
+AIR ALGERIE,12:40 PM,5:00 PM+1,839.0,29 hr 20 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,839.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-28,1,True
+TURKISH AIRLINES,4:05 PM,9:05 AM+1,840.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-15,16,True
+TURKISH AIRLINES,7:50 PM,9:05 AM+1,840.0,14 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-08,16,True
+AIR ALGERIE,10:10 PM,6:10 PM+1,843.0,21 hr,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,847.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-28,11,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,847.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-14,11,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,847.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-21,11,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,850.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-04,11,False
+AIR ALGERIE,8:10 PM,8:30 AM+2,852.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-19,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,852.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,852.0,23 hr,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,852.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,852.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,4:55 PM,6:10 PM+1,852.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-26,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,852.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-27,1,False
+AIR ALGERIE,7:40 AM,6:40 PM+1,853.0,36 hr,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,2:00 PM,6:40 PM,853.0,5 hr 40 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,853.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,853.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,853.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,7:40 AM,8:30 AM+1,853.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,853.0,23 hr,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,2:00 PM,6:10 PM+1,853.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,7:40 AM,6:10 PM,853.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,8:10 PM,6:40 PM+1,853.0,23 hr 30 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,2:00 PM,6:40 PM+1,853.0,29 hr 40 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,7:40 AM,6:40 PM,853.0,12 hr,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,853.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-15,1,True
+TURKISH AIRLINES,7:20 AM,4:15 PM,854.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+AIR ALGERIE,9:00 AM,6:10 PM,855.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,855.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,855.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,855.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,855.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-20,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,856.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-15,1,True
+AIR ALGERIE,9:00 AM,6:10 PM,856.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+AIR ALGERIE,6:00 PM,6:40 PM+1,856.0,25 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,9:40 PM,6:40 PM+1,856.0,22 hr,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,856.0,13 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,856.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,12:15 PM,8:30 AM+1,856.0,21 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,856.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,856.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-15,1,True
+AIR ALGERIE,12:15 PM,6:10 PM,856.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,856.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,12:15 PM,6:10 PM+1,856.0,30 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,9:00 AM,6:10 PM,856.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,12:15 PM,6:10 PM,856.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,3:30 PM,6:10 PM+1,856.0,27 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,856.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,12:15 PM,6:40 PM,856.0,7 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+AIR ALGERIE,9:00 AM,6:40 PM,856.0,10 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+"LUFTHANSA, ITA",9:00 AM,5:05 PM,872.0,9 hr 5 min,CDGParis Charles de Gaulle Airport,2024-09-11,8,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,875.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-14,1,True
+"LUFTHANSA, ITA",6:05 AM,5:05 PM,875.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-25,8,False
+AIR ALGERIE,4:55 PM,8:30 AM+1,875.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,4:55 PM,9:25 AM+1,875.0,17 hr 30 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,4:55 PM,6:10 PM+1,875.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-15,1,True
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,876.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-21,4,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,876.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,4,True
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,876.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-27,4,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,876.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-21,4,True
+"AUSTRIAN, ITA",8:15 PM,5:10 PM+1,876.0,21 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-27,4,False
+"AUSTRIAN, ITA",9:55 AM,9:35 AM+1,876.0,24 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,4,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,876.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-28,4,True
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,876.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,4,False
+"AUSTRIAN, ITA",5:55 PM,9:35 AM+1,876.0,16 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,876.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-14,4,True
+"AUSTRIAN, ITA",9:55 AM,9:35 AM+1,876.0,24 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-23,4,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,876.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,4,True
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,876.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,4,True
+"AUSTRIAN, ITA",9:55 AM,9:35 AM+1,876.0,24 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,4,True
+"SWISS, ITA",9:45 AM,9:35 AM+1,876.0,24 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-19,12,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,878.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,6:00 PM,6:10 PM+1,878.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,878.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,4:30 PM,8:30 AM+1,878.0,17 hr,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+AIR ALGERIE,4:30 PM,6:10 PM+1,878.0,26 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+"SWISS, LUFTHANSA",8:10 PM,10:50 AM+1,878.0,15 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-21,13,True
+"LUFTHANSA, ITA",7:30 AM,5:05 PM,879.0,10 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-08,8,True
+"LUFTHANSA, ITA",6:05 AM,5:05 PM,879.0,12 hr,CDGParis Charles de Gaulle Airport,2024-09-08,8,True
+"AUSTRIAN, ITA",8:15 PM,9:35 AM+1,880.0,14 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-11,4,False
+"AUSTRIAN, ITA",3:55 PM,9:35 AM+1,880.0,18 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-10,4,False
+"AUSTRIAN, ITA",8:15 PM,5:05 PM+1,880.0,21 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,4,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,899.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-20,1,False
+AIR ALGERIE,12:40 PM,6:10 PM+1,901.0,30 hr 30 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,901.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,12:40 PM,6:40 PM+1,901.0,31 hr,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,6:15 PM,8:30 AM+1,902.0,15 hr 15 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,6:15 PM,6:10 PM+1,902.0,24 hr 55 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,6:15 PM,6:10 PM+1,902.0,24 hr 55 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,9:50 PM,6:10 PM+1,904.0,21 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,6:15 PM,6:10 PM+1,909.0,24 hr 55 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,911.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,6:00 PM,6:10 PM+1,911.0,25 hr 10 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,7:40 AM,6:40 PM,933.0,12 hr,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,2:00 PM,6:40 PM,933.0,5 hr 40 min,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,933.0,23 hr,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+2,933.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,8:10 PM,6:55 PM+1,933.0,23 hr 45 min,ORYParis-Orly Airport,2024-09-05,1,False
+AIR ALGERIE,2:00 PM,6:10 PM+1,933.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,7:40 AM,6:10 PM,933.0,11 hr 30 min,ORYParis-Orly Airport,2024-09-17,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,933.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,8:10 PM,6:10 PM+1,933.0,23 hr,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,2:00 PM,8:30 AM+1,933.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,8:10 PM,8:30 AM+1,933.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,933.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,7:40 AM,8:30 AM+1,933.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,933.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,933.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,7:40 AM,6:55 PM+1,933.0,36 hr 15 min,ORYParis-Orly Airport,2024-09-05,1,False
+AIR ALGERIE,2:00 PM,6:55 PM+1,933.0,29 hr 55 min,ORYParis-Orly Airport,2024-09-05,1,False
+AIR ALGERIE,4:55 PM,6:55 PM+1,933.0,27 hr,ORYParis-Orly Airport,2024-09-05,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,933.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,8:10 PM,6:10 PM+1,933.0,23 hr,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+2,933.0,37 hr 20 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,933.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,4:55 PM,8:30 AM+1,933.0,16 hr 35 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,2:00 PM,6:10 PM+1,933.0,29 hr 10 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,8:10 PM,9:25 AM+1,933.0,14 hr 15 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,7:40 AM,6:10 PM+1,933.0,35 hr 30 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,7:40 AM,8:30 AM+1,933.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,2:00 PM,8:30 AM+1,933.0,19 hr 30 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,7:40 AM,8:30 AM+1,933.0,25 hr 50 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,8:10 PM,8:30 AM+1,933.0,13 hr 20 min,ORYParis-Orly Airport,2024-09-11,1,False
+AIR ALGERIE,4:55 PM,6:10 PM+1,933.0,26 hr 15 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,2:00 PM,9:25 AM+1,933.0,20 hr 25 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,936.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,9:40 PM,8:30 AM+1,936.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,9:40 PM,6:55 PM+1,936.0,22 hr 15 min,CDGParis Charles de Gaulle Airport,2024-09-05,1,False
+AIR ALGERIE,6:00 PM,6:55 PM+1,936.0,25 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-05,1,False
+AIR ALGERIE,12:15 PM,6:40 PM,936.0,7 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,9:00 AM,6:40 PM,936.0,10 hr 40 min,CDGParis Charles de Gaulle Airport,2024-09-04,1,False
+AIR ALGERIE,1:15 PM,9:25 AM+1,936.0,21 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,936.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+AIR ALGERIE,12:15 PM,6:10 PM,936.0,6 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,9:00 AM,6:10 PM,936.0,10 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-17,1,False
+AIR ALGERIE,3:30 PM,8:30 AM+1,936.0,18 hr,CDGParis Charles de Gaulle Airport,2024-09-15,1,True
+AIR ALGERIE,9:40 PM,9:25 AM+1,936.0,12 hr 45 min,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,6:00 PM,9:25 AM+1,936.0,16 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,12:15 PM,9:25 AM+1,936.0,22 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-10,1,False
+AIR ALGERIE,6:00 PM,8:30 AM+1,936.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-14,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,936.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,936.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+AIR ALGERIE,6:00 PM,8:30 AM+1,936.0,15 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-08,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,936.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-15,1,True
+AIR ALGERIE,9:40 PM,8:30 AM+1,936.0,11 hr 50 min,CDGParis Charles de Gaulle Airport,2024-09-11,1,False
+TURKISH AIRLINES,5:55 PM,4:15 PM+1,955.0,23 hr 20 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,955.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-28,16,True
+ROYAL JORDANIAN,4:00 PM,12:35 PM+1,960.0,21 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-05,11,False
+TURKISH AIRLINES,7:20 AM,4:15 PM,965.0,9 hr 55 min,CDGParis Charles de Gaulle Airport,2024-09-20,16,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,980.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-15,1,True
+AIR ALGERIE,12:40 PM,8:30 AM+1,980.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-14,1,True
+AIR ALGERIE,12:40 PM,6:55 PM+1,980.0,31 hr 15 min,ORYParis-Orly Airport,2024-09-05,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,980.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-04,1,False
+AIR ALGERIE,12:40 PM,8:30 AM+1,980.0,20 hr 50 min,ORYParis-Orly Airport,2024-09-08,1,True
+AIR ALGERIE,12:40 PM,9:25 AM+1,980.0,21 hr 45 min,ORYParis-Orly Airport,2024-09-10,1,False
+AIR ALGERIE,12:40 PM,6:10 PM+1,980.0,30 hr 30 min,ORYParis-Orly Airport,2024-09-04,1,False
+TURKISH AIRLINES,2:10 PM,10:40 PM,1043.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-15,16,True
+TURKISH AIRLINES,7:50 PM,4:15 PM+1,1069.0,21 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,4:05 PM,4:15 PM+1,1069.0,25 hr 10 min,CDGParis Charles de Gaulle Airport,2024-09-21,16,True
+TURKISH AIRLINES,2:10 PM,10:40 PM,1074.0,9 hr 30 min,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+TURKISH AIRLINES,4:05 PM,10:40 PM,1074.0,7 hr 35 min,CDGParis Charles de Gaulle Airport,2024-09-22,16,True
+ROYAL AIR MAROC,8:00 AM,4:55 PM,1095.0,9 hr 55 min,ORYParis-Orly Airport,2024-09-05,10,False
+ROYAL AIR MAROC,1:15 PM,4:55 PM+1,1095.0,28 hr 40 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,9:40 PM,4:55 PM+1,1095.0,20 hr 15 min,ORYParis-Orly Airport,2024-09-04,10,False
+ROYAL AIR MAROC,6:30 PM,4:55 PM+1,1097.0,23 hr 25 min,CDGParis Charles de Gaulle Airport,2024-09-04,10,False
